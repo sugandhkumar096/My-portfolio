@@ -25,7 +25,7 @@ function Navbar() {
           <ul className="navbar-nav mx-auto navbar-links">
             <li className="nav-item"><Link className="nav-link" href="" to="/">Home</Link ></li>
             <li className="nav-item"><Link  className="nav-link" href="" to= '/About'>About</Link ></li>
-            <li className="nav-item"><a className="nav-link" href="C:\Users\sugan\OneDrive\Desktop\My-portfolio\src\Main\Image\my_resume_3_0 (1) (2) (1).pdf">Resume</a></li>
+            <li className="nav-item"><a className="nav-link" href="/src/Main/Image/my_resume_3_0 (1) (2) (1).pdf">Resume</a></li>
             <li className="nav-item"><Link  className="nav-link" href="">Portfolio</Link ></li>
             <li className="nav-item"><Link  className="nav-link" href="">Services</Link ></li>
             <li className="nav-item"><Link  className="nav-link" href="">Contact</Link ></li>
